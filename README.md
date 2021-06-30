@@ -21,3 +21,4 @@ and Auto encoders that returned test accuracies of 93.4%, 97.2%
 and 28% respectively.
 
 ## Arcitecture 
+![image](https://user-images.githubusercontent.com/72537343/123980889-cf98b200-d9b9-11eb-807d-d849befaf204.png)
